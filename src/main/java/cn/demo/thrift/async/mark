@@ -1,0 +1,4 @@
+http://blog.csdn.net/sunmenggmail/article/details/46818147
+
+// 使用非阻塞式IO，服务端和客户端需要指定TFramedTransport数据传输的方式
+// hsha和threadedSelector均是基于NIO
